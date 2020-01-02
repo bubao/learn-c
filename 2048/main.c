@@ -2,8 +2,8 @@
  * @Description: 2048
  * @Author: bubao
  * @Date: 2019-10-29 16:44:09
- * @LastEditors: bubao
- * @LastEditTime: 2019-10-29 17:15:33
+ * @LastEditors  : bubao
+ * @LastEditTime : 2020-01-02 10:36:27
  */
 // https://github.com/mevdschee/2048.c
 #define _XOPEN_SOURCE 500
